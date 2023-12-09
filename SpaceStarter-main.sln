@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{CF3ED35F-B7D3-62BE-645E-9D9B42D765BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{473E567B-2CB4-2AAD-E869-597C3CFA386A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolbarExtender.Editor", "ToolbarExtender.Editor.csproj", "{37DDD248-7814-3D34-B1FA-50B2F4F8ADC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF3ED35F-B7D3-62BE-645E-9D9B42D765BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF3ED35F-B7D3-62BE-645E-9D9B42D765BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF3ED35F-B7D3-62BE-645E-9D9B42D765BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF3ED35F-B7D3-62BE-645E-9D9B42D765BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{473E567B-2CB4-2AAD-E869-597C3CFA386A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{473E567B-2CB4-2AAD-E869-597C3CFA386A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{473E567B-2CB4-2AAD-E869-597C3CFA386A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{473E567B-2CB4-2AAD-E869-597C3CFA386A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37DDD248-7814-3D34-B1FA-50B2F4F8ADC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37DDD248-7814-3D34-B1FA-50B2F4F8ADC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37DDD248-7814-3D34-B1FA-50B2F4F8ADC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37DDD248-7814-3D34-B1FA-50B2F4F8ADC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
